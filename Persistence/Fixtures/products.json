@@ -1,0 +1,22 @@
+[
+        {
+            "uuid": "1234-5678-9012-3456",
+            "title": "First product"
+        },
+        {
+            "uuid": "1234-5678-9012-3457",
+            "title": "Second product"
+        },
+        {
+            "uuid": "1234-5678-9012-3458",
+            "title": "Third product"
+        },
+        {
+            "uuid": "1234-5678-9012-3459",
+            "title": "Fourth product"
+        },
+        {
+            "uuid": "1234-5678-9012-3450",
+            "title": "Fifth product"
+        }
+]
